@@ -1,0 +1,4 @@
+.idea/
+prom
+*.txt
+/target/
